@@ -1,1 +1,5 @@
-
+plugins:
+  - jekyll-feed
+title: Devinerecipes blog
+description: Welcome to my blog
+author: Devine Recipes 
