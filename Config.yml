@@ -1,9 +1,0 @@
-plugins:
-  - jekyll-feed
-title: Devinerecipes blog
-description: Welcome to my blog
-author: Devine Recipes 
-
-name: Crimsonfaie, Horrible Cop
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
